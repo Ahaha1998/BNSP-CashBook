@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyCashBook</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="author">
+        Aplikasi ini dibuat oleh: \nNama: Wahyu Hidayah \nNIM : 1741720190 \nTanggal: 31 Oct 2021
+    </string>
+</resources>
